@@ -53,5 +53,5 @@ Simple Calculator
 4. Divide
 5. Exit
 Enter your choice: 4
-Enter two numbers: 10 0
+Enter two numbers: 10 0  
 Error: Division by zero
