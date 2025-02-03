@@ -41,8 +41,8 @@ Requirements:
 2. Subtract  
 3. Multiply  
 4. Divide  
-5. Exit  
-Enter your choice: 1   
+5. Exit
+6. Enter your choice: 1   
 Enter two numbers: 5.2 3.8  
 Result: 9.00  
 
